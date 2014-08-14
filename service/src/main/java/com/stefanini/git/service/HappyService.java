@@ -6,7 +6,7 @@ public class HappyService {
 
 	}
 
-	public void makeItBetter() {
+	public void makeItBetter(int howMuch) {
 
 	}
 }
